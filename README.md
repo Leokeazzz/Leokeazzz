@@ -1,0 +1,5 @@
+- 👋 Hi, I'm Leokeaz, an 18-year-old guy enthusiastic about programming and computers. I will upload and publish here any projects I work on over time.
+- 👋 Hola, soy Leokeaz, un chico de 18 años de edad entusiasta por la programación y las computadoras. Subiré y publicaré por aquí cualquier proyecto que vaya realizando con el tiempo.
+- 
+- 🌱 I’m currently learning Python & IA
+- 🌱 Actualmente estoy aprendiendo Python e Inteligencia Artificial.
